@@ -60,7 +60,7 @@ function App() {
   return (
     <main>
       <Tours tours={tours} removeTour={removeTour} />{" "}
-      {/* //* 6. Pass tours state containing the tours data and removeTour function as props to Tours component. */}
+      {/* //* 7. Pass tours state containing the tours data and removeTour function as props to Tours component. */}
     </main>
   );
 }
